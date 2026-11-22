@@ -4,11 +4,11 @@ One image that sums up the world news of **Sunday, 22 November 2026**,
 drawn by `main.py` (Python 3, standard library only) as a classic
 cream-paper newspaper front page.
 
-![make.fun badge](https://make.fun/badge/news-image-20261122.svg)
-![rank](https://make.fun/badge/news-image-20261122/Schyd/news-image-20261122/rank.svg)
-![reward](https://make.fun/badge/news-image-20261122/Schyd/news-image-20261122/reward.svg)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/Schyd/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/Schyd/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
-- Bounty: https://make.fun/c/news-image-20261122
+- Bounty: https://make.fun/bounty/news-image-20261122
 - Entry: `main.py` writes `entry.png` (1024x1024, under 1 MiB) into
   `$MAKEFUN_OUTPUT_DIR` (default `out/`). It runs offline, is fully
   deterministic (two runs produce byte-identical output), and only
@@ -51,3 +51,4 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ## License
 
 MIT — see `LICENSE`.
+
